@@ -1,0 +1,22 @@
+{
+  "name": "twilio-log-cleaner",
+  "version": "1.0.0",
+  "description": "Anonymizes twilio SMS logs for use as public sample data or test fixtures.",
+  "main": "clean.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timwis/twilio-log-cleaner.git"
+  },
+  "author": "timwis <tim@timwis.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timwis/twilio-log-cleaner/issues"
+  },
+  "homepage": "https://github.com/timwis/twilio-log-cleaner#readme",
+  "dependencies": {
+    "lorem-ipsum": "^1.0.3"
+  }
+}
